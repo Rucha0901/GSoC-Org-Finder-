@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-09T13:08:02.450Z",
+  "updated_at": "2026-05-21T15:27:13.620Z",
   "source_org_count": 184,
-  "total_issues": 50,
+  "total_issues": 157,
   "issues": [
     {
       "org": "AFLplusplus",
@@ -17,7 +17,7 @@
       ],
       "comments": 6,
       "created_at": "2022-10-06T02:10:29Z",
-      "updated_at": "2026-02-19T11:26:32Z",
+      "updated_at": "2026-05-13T14:12:12Z",
       "language": null
     },
     {
@@ -34,6 +34,21 @@
       "comments": 9,
       "created_at": "2022-10-21T11:28:23Z",
       "updated_at": "2026-02-19T11:23:27Z",
+      "language": null
+    },
+    {
+      "org": "AnkiDroid",
+      "github": "ankidroid/Anki-Android",
+      "logo": "https://avatars.githubusercontent.com/ankidroid",
+      "title": "Improve some dialogs (mostly string changes)",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/20508",
+      "repo": "ankidroid/Anki-Android",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 22,
+      "created_at": "2026-03-18T12:37:25Z",
+      "updated_at": "2026-05-20T09:50:31Z",
       "language": null
     },
     {
@@ -70,25 +85,6 @@
       "language": null
     },
     {
-      "org": "AnkiDroid",
-      "github": "ankidroid/Anki-Android",
-      "logo": "https://avatars.githubusercontent.com/ankidroid",
-      "title": "Update to net.mikehardy:google-analytics-java:2.0.11 (needs minSdkVersion >= 24)",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/7056",
-      "repo": "ankidroid/Anki-Android",
-      "labels": [
-        "Priority-Low",
-        "Good First Issue",
-        "Keep Open",
-        "Dev",
-        "Analytics"
-      ],
-      "comments": 10,
-      "created_at": "2020-09-10T15:26:28Z",
-      "updated_at": "2026-04-30T14:58:24Z",
-      "language": null
-    },
-    {
       "org": "ArduPilot",
       "github": "ArduPilot/ardupilot",
       "logo": "https://avatars.githubusercontent.com/ArduPilot",
@@ -98,9 +94,26 @@
       "labels": [
         "good first issue"
       ],
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-04-15T22:22:51Z",
-      "updated_at": "2026-04-20T20:26:45Z",
+      "updated_at": "2026-05-16T00:30:36Z",
+      "language": null
+    },
+    {
+      "org": "ArduPilot",
+      "github": "ArduPilot/ardupilot",
+      "logo": "https://avatars.githubusercontent.com/ArduPilot",
+      "title": "Copter: easier test of benchtest the parachute",
+      "url": "https://github.com/ArduPilot/ardupilot/issues/2339",
+      "repo": "ArduPilot/ardupilot",
+      "labels": [
+        "Copter",
+        "Safety",
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2015-05-28T09:00:55Z",
+      "updated_at": "2026-05-15T04:45:30Z",
       "language": null
     },
     {
@@ -116,22 +129,6 @@
       "comments": 2,
       "created_at": "2020-05-24T02:28:05Z",
       "updated_at": "2026-04-01T15:45:17Z",
-      "language": null
-    },
-    {
-      "org": "ArduPilot",
-      "github": "ArduPilot/ardupilot",
-      "logo": "https://avatars.githubusercontent.com/ArduPilot",
-      "title": "Remove mavlink enum dependencies on non related library",
-      "url": "https://github.com/ArduPilot/ardupilot/issues/23320",
-      "repo": "ArduPilot/ardupilot",
-      "labels": [
-        "Enhancement",
-        "good first issue"
-      ],
-      "comments": 14,
-      "created_at": "2023-03-24T10:48:12Z",
-      "updated_at": "2026-03-29T12:50:07Z",
       "language": null
     },
     {
@@ -185,38 +182,19 @@
       "language": null
     },
     {
-      "org": "C2SI",
-      "github": "c2siorg",
-      "logo": "https://avatars.githubusercontent.com/c2siorg",
-      "title": "Missing Alt Text on Images Causing Accessibility Issues",
-      "url": "https://github.com/c2siorg/Codelabz/issues/310",
-      "repo": "c2siorg/Codelabz",
-      "labels": [
-        "bug",
-        "good first issue",
-        "UI/UX",
-        "stale",
-        "feature"
-      ],
-      "comments": 6,
-      "created_at": "2026-03-09T18:50:47Z",
-      "updated_at": "2026-04-27T04:51:54Z",
-      "language": null
-    },
-    {
       "org": "cBioPortal for Cancer Genomics",
       "github": "cBioPortal/cbioportal",
       "logo": "https://avatars.githubusercontent.com/cBioPortal",
-      "title": "on study view store opt in to store chart settings",
-      "url": "https://github.com/cBioPortal/cbioportal/issues/10738",
+      "title": "Study View genes input allows OQL, but not OQL trackgroups",
+      "url": "https://github.com/cBioPortal/cbioportal/issues/10460",
       "repo": "cBioPortal/cbioportal",
       "labels": [
-        "enhancement",
+        "bug",
         "good first issue"
       ],
-      "comments": 5,
-      "created_at": "2024-04-05T15:42:14Z",
-      "updated_at": "2026-04-14T19:07:07Z",
+      "comments": 3,
+      "created_at": "2023-11-09T10:12:34Z",
+      "updated_at": "2026-05-11T19:47:49Z",
       "language": null
     },
     {
@@ -255,6 +233,23 @@
       "org": "checkstyle",
       "github": "checkstyle/checkstyle",
       "logo": "https://avatars.githubusercontent.com/checkstyle",
+      "title": "Move violation comments above of annotated methods",
+      "url": "https://github.com/checkstyle/checkstyle/issues/19803",
+      "repo": "checkstyle/checkstyle",
+      "labels": [
+        "approved",
+        "miscellaneous",
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2026-05-13T10:53:23Z",
+      "updated_at": "2026-05-15T13:39:27Z",
+      "language": null
+    },
+    {
+      "org": "checkstyle",
+      "github": "checkstyle/checkstyle",
+      "logo": "https://avatars.githubusercontent.com/checkstyle",
       "title": "Move violation comments out of Javadoc for all input files",
       "url": "https://github.com/checkstyle/checkstyle/issues/19764",
       "repo": "checkstyle/checkstyle",
@@ -263,9 +258,9 @@
         "miscellaneous",
         "good first issue"
       ],
-      "comments": 3,
+      "comments": 5,
       "created_at": "2026-04-29T02:48:15Z",
-      "updated_at": "2026-05-05T19:45:08Z",
+      "updated_at": "2026-05-12T13:28:06Z",
       "language": null
     },
     {
@@ -289,6 +284,37 @@
       "org": "CircuitVerse.org",
       "github": "CircuitVerse/CircuitVerse",
       "logo": "https://avatars.githubusercontent.com/CircuitVerse",
+      "title": "🐞 Bug: Tests are failing of master branch",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/7385",
+      "repo": "CircuitVerse/CircuitVerse",
+      "labels": [
+        "good first issue",
+        "🐞 bug"
+      ],
+      "comments": 4,
+      "created_at": "2026-05-21T13:33:05Z",
+      "updated_at": "2026-05-21T14:01:06Z",
+      "language": null
+    },
+    {
+      "org": "CircuitVerse.org",
+      "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
+      "title": "Google OAuth: email-only lookup in from_omniauth creates duplicate accounts after Gmail rename",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/7262",
+      "repo": "CircuitVerse/CircuitVerse",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2026-04-13T15:15:11Z",
+      "updated_at": "2026-05-21T13:13:27Z",
+      "language": null
+    },
+    {
+      "org": "CircuitVerse.org",
+      "github": "CircuitVerse/CircuitVerse",
+      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
       "title": "Text is not completely highlighted on hover",
       "url": "https://github.com/CircuitVerse/CircuitVerse/issues/2919",
       "repo": "CircuitVerse/CircuitVerse",
@@ -296,42 +322,9 @@
         "good first issue",
         "🐞 bug"
       ],
-      "comments": 41,
+      "comments": 42,
       "created_at": "2022-02-10T17:03:50Z",
-      "updated_at": "2026-05-09T05:00:54Z",
-      "language": null
-    },
-    {
-      "org": "CircuitVerse.org",
-      "github": "CircuitVerse/CircuitVerse",
-      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
-      "title": "Missing translation for \"Member since\" for arabic language on User dashboard",
-      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/6002",
-      "repo": "CircuitVerse/CircuitVerse",
-      "labels": [
-        "good first issue",
-        "🐞 bug"
-      ],
-      "comments": 20,
-      "created_at": "2025-08-23T15:39:36Z",
-      "updated_at": "2026-05-05T18:20:02Z",
-      "language": null
-    },
-    {
-      "org": "CircuitVerse.org",
-      "github": "CircuitVerse/CircuitVerse",
-      "logo": "https://avatars.githubusercontent.com/CircuitVerse",
-      "title": "[fix] : localization in recent circuits section ",
-      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/3552",
-      "repo": "CircuitVerse/CircuitVerse",
-      "labels": [
-        "good first issue",
-        "on hold",
-        "🐞 bug"
-      ],
-      "comments": 18,
-      "created_at": "2023-02-10T04:46:03Z",
-      "updated_at": "2026-04-15T06:23:53Z",
+      "updated_at": "2026-05-17T22:10:07Z",
       "language": null
     },
     {
@@ -367,6 +360,1177 @@
       "comments": 9,
       "created_at": "2023-12-11T10:07:22Z",
       "updated_at": "2025-12-15T16:22:55Z",
+      "language": null
+    },
+    {
+      "org": "dora-rs",
+      "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
+      "title": "feat(cli): convert dora logs to --node flag + positional dataflow (residual #1059 gap)",
+      "url": "https://github.com/dora-rs/dora/issues/1880",
+      "repo": "dora-rs/dora",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "cli",
+        "rust",
+        "coordinator"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-20T02:54:53Z",
+      "updated_at": "2026-05-20T02:55:03Z",
+      "language": null
+    },
+    {
+      "org": "dora-rs",
+      "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
+      "title": "feat(c++/operator): wire InputParseError to a C++ callback (residual phase-5 gap)",
+      "url": "https://github.com/dora-rs/dora/issues/1879",
+      "repo": "dora-rs/dora",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "rust",
+        "c++"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-20T02:43:27Z",
+      "updated_at": "2026-05-20T02:43:35Z",
+      "language": null
+    },
+    {
+      "org": "dora-rs",
+      "github": "dora-rs/dora",
+      "logo": "https://avatars.githubusercontent.com/dora-rs",
+      "title": "docs: visual diagrams in core onboarding docs + structured error-message table",
+      "url": "https://github.com/dora-rs/dora/issues/1878",
+      "repo": "dora-rs/dora",
+      "labels": [
+        "bug",
+        "documentation",
+        "good first issue",
+        "cli",
+        "rust",
+        "daemon",
+        "coordinator"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-20T02:31:30Z",
+      "updated_at": "2026-05-20T02:31:38Z",
+      "language": null
+    },
+    {
+      "org": "Eclipse Foundation",
+      "github": "eclipse-platform/eclipse.platform",
+      "logo": "https://avatars.githubusercontent.com/eclipse-platform",
+      "title": "Reactivate tests: disabled tests collection",
+      "url": "https://github.com/eclipse-platform/eclipse.platform/issues/525",
+      "repo": "eclipse-platform/eclipse.platform",
+      "labels": [
+        "good first issue",
+        "test"
+      ],
+      "comments": 2,
+      "created_at": "2023-06-28T15:52:02Z",
+      "updated_at": "2026-04-01T13:17:11Z",
+      "language": null
+    },
+    {
+      "org": "Eclipse Foundation",
+      "github": "eclipse-platform/eclipse.platform",
+      "logo": "https://avatars.githubusercontent.com/eclipse-platform",
+      "title": "If importing a project failed because its exist, ask the user to open/jump to the project",
+      "url": "https://github.com/eclipse-platform/eclipse.platform/issues/1978",
+      "repo": "eclipse-platform/eclipse.platform",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 5,
+      "created_at": "2025-06-21T06:44:52Z",
+      "updated_at": "2025-06-27T11:34:15Z",
+      "language": null
+    },
+    {
+      "org": "FOSSology",
+      "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
+      "title": "Bug: Unable to clear upload description and comment",
+      "url": "https://github.com/fossology/fossology/issues/3002",
+      "repo": "fossology/fossology",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "comments": 13,
+      "created_at": "2025-03-13T16:48:37Z",
+      "updated_at": "2026-03-30T17:59:51Z",
+      "language": null
+    },
+    {
+      "org": "FOSSology",
+      "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
+      "title": "REST API: Users creation/management",
+      "url": "https://github.com/fossology/fossology/issues/1578",
+      "repo": "fossology/fossology",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 9,
+      "created_at": "2020-01-20T13:46:02Z",
+      "updated_at": "2026-03-30T15:39:34Z",
+      "language": null
+    },
+    {
+      "org": "FOSSology",
+      "github": "fossology/fossology",
+      "logo": "https://avatars.githubusercontent.com/fossology",
+      "title": "Add copyright export to fo_nomos_license_list",
+      "url": "https://github.com/fossology/fossology/issues/1715",
+      "repo": "fossology/fossology",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2020-05-08T13:04:11Z",
+      "updated_at": "2026-03-26T14:21:23Z",
+      "language": null
+    },
+    {
+      "org": "Fortran-lang",
+      "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
+      "title": "There may be a typo in stdlib_string_type.fypp",
+      "url": "https://github.com/fortran-lang/stdlib/issues/1028",
+      "repo": "fortran-lang/stdlib",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "easy"
+      ],
+      "comments": 1,
+      "created_at": "2025-08-17T01:18:04Z",
+      "updated_at": "2026-05-07T21:05:10Z",
+      "language": null
+    },
+    {
+      "org": "Fortran-lang",
+      "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
+      "title": "Input() function",
+      "url": "https://github.com/fortran-lang/stdlib/issues/259",
+      "repo": "fortran-lang/stdlib",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "topic: utilities",
+        "easy"
+      ],
+      "comments": 19,
+      "created_at": "2020-12-06T18:48:21Z",
+      "updated_at": "2026-04-22T17:55:59Z",
+      "language": null
+    },
+    {
+      "org": "Fortran-lang",
+      "github": "fortran-lang/stdlib",
+      "logo": "https://avatars.githubusercontent.com/fortran-lang",
+      "title": "Pretty printing of matrices (and multidimensional arrays)",
+      "url": "https://github.com/fortran-lang/stdlib/issues/40",
+      "repo": "fortran-lang/stdlib",
+      "labels": [
+        "good first issue",
+        "in progress",
+        "topic: utilities",
+        "easy"
+      ],
+      "comments": 8,
+      "created_at": "2019-12-22T19:47:12Z",
+      "updated_at": "2026-02-07T17:59:27Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "Preferences: Add preference for `show placement` and `show 2D plane`",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/19878",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Mod: Core",
+        "Topic: User Interface",
+        "Type: Feature",
+        "Good first issue",
+        "Topic: Preferences"
+      ],
+      "comments": 1,
+      "created_at": "2025-02-26T18:14:20Z",
+      "updated_at": "2026-05-21T15:12:23Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "Core: Inconsistent order of Orbit styles",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/30282",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Mod: Core",
+        "Topic: User Interface",
+        "Type: Feature",
+        "Good first issue",
+        "Status: Solution proposed",
+        "Approved: UI/UX"
+      ],
+      "comments": 3,
+      "created_at": "2026-05-19T09:04:34Z",
+      "updated_at": "2026-05-19T17:30:06Z",
+      "language": null
+    },
+    {
+      "org": "FreeCAD",
+      "github": "FreeCAD/FreeCAD",
+      "logo": "https://avatars.githubusercontent.com/FreeCAD",
+      "title": "PartDesign: If document contains ONLY ONE PartDesign Body object, Binder creates inside this Body",
+      "url": "https://github.com/FreeCAD/FreeCAD/issues/30253",
+      "repo": "FreeCAD/FreeCAD",
+      "labels": [
+        "Mod: Part Design",
+        "Type: Feature",
+        "Good first issue"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-17T17:05:50Z",
+      "updated_at": "2026-05-19T04:48:57Z",
+      "language": null
+    },
+    {
+      "org": "Gemini CLI",
+      "github": "google-gemini/gemini-cli",
+      "logo": "https://avatars.githubusercontent.com/google-gemini",
+      "title": "Bug: 'text.response' in custom theme triggers validation error (unrecognized key)",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/25689",
+      "repo": "google-gemini/gemini-cli",
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "status/bot-triaged",
+        "kind/bug",
+        "help wanted",
+        "good first issue",
+        "type/bug"
+      ],
+      "comments": 6,
+      "created_at": "2026-04-20T08:25:37Z",
+      "updated_at": "2026-05-15T19:49:59Z",
+      "language": null
+    },
+    {
+      "org": "Gemini CLI",
+      "github": "google-gemini/gemini-cli",
+      "logo": "https://avatars.githubusercontent.com/google-gemini",
+      "title": "[Bug] Skills discovery fails when 'description' in SKILL.md frontmatter is a single line",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/25693",
+      "repo": "google-gemini/gemini-cli",
+      "labels": [
+        "priority/p2",
+        "area/extensions",
+        "status/bot-triaged",
+        "kind/bug",
+        "help wanted",
+        "good first issue",
+        "type/bug"
+      ],
+      "comments": 8,
+      "created_at": "2026-04-20T08:57:39Z",
+      "updated_at": "2026-05-15T09:18:54Z",
+      "language": null
+    },
+    {
+      "org": "Gemini CLI",
+      "github": "google-gemini/gemini-cli",
+      "logo": "https://avatars.githubusercontent.com/google-gemini",
+      "title": "test(a2a-server): migrate process.env to vi.stubEnv() per GEMINI.md conventions",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/19826",
+      "repo": "google-gemini/gemini-cli",
+      "labels": [
+        "priority/p3",
+        "area/platform",
+        "Stale",
+        "kind/customer-issue",
+        "status/bot-triaged",
+        "kind/bug",
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2026-02-21T13:41:41Z",
+      "updated_at": "2026-05-11T00:22:19Z",
+      "language": null
+    },
+    {
+      "org": "GeomScale",
+      "github": "GeomScale/volesti",
+      "logo": "https://avatars.githubusercontent.com/GeomScale",
+      "title": " Fix examples and CI integration",
+      "url": "https://github.com/GeomScale/volesti/issues/193",
+      "repo": "GeomScale/volesti",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "example"
+      ],
+      "comments": 23,
+      "created_at": "2021-12-10T09:28:32Z",
+      "updated_at": "2026-03-25T18:06:34Z",
+      "language": null
+    },
+    {
+      "org": "GeomScale",
+      "github": "GeomScale/volesti",
+      "logo": "https://avatars.githubusercontent.com/GeomScale",
+      "title": "Replace Eigen pointers with iterators",
+      "url": "https://github.com/GeomScale/volesti/issues/105",
+      "repo": "GeomScale/volesti",
+      "labels": [
+        "optimization",
+        "good first issue",
+        "Hacktoberfest"
+      ],
+      "comments": 17,
+      "created_at": "2020-07-30T09:23:03Z",
+      "updated_at": "2026-03-11T15:27:48Z",
+      "language": null
+    },
+    {
+      "org": "GeomScale",
+      "github": "GeomScale/volesti",
+      "logo": "https://avatars.githubusercontent.com/GeomScale",
+      "title": "Inefficient handling of burn in phase in sampling functions",
+      "url": "https://github.com/GeomScale/volesti/issues/180",
+      "repo": "GeomScale/volesti",
+      "labels": [
+        "optimization",
+        "good first issue"
+      ],
+      "comments": 13,
+      "created_at": "2021-10-01T12:09:28Z",
+      "updated_at": "2026-02-21T08:39:31Z",
+      "language": null
+    },
+    {
+      "org": "German Center for Open Source AI",
+      "github": "openml/openml-python",
+      "logo": "https://avatars.githubusercontent.com/openml",
+      "title": "[DOC] Update documentation for running tests with local services",
+      "url": "https://github.com/openml/openml-python/issues/1708",
+      "repo": "openml/openml-python",
+      "labels": [
+        "Documentation",
+        "Good First Issue"
+      ],
+      "comments": 2,
+      "created_at": "2026-03-10T02:01:33Z",
+      "updated_at": "2026-03-13T20:06:26Z",
+      "language": null
+    },
+    {
+      "org": "German Center for Open Source AI",
+      "github": "openml/openml-python",
+      "logo": "https://avatars.githubusercontent.com/openml",
+      "title": "[MNT] Add Missing Assertions to Run Function Tests",
+      "url": "https://github.com/openml/openml-python/issues/1646",
+      "repo": "openml/openml-python",
+      "labels": [
+        "Good First Issue",
+        "testing",
+        "module:Run"
+      ],
+      "comments": 3,
+      "created_at": "2026-02-18T08:03:06Z",
+      "updated_at": "2026-03-08T12:58:16Z",
+      "language": null
+    },
+    {
+      "org": "German Center for Open Source AI",
+      "github": "openml/openml-python",
+      "logo": "https://avatars.githubusercontent.com/openml",
+      "title": "[MNT] Remove `__version__.py` module and define `__version__` in `__init__`",
+      "url": "https://github.com/openml/openml-python/issues/1642",
+      "repo": "openml/openml-python",
+      "labels": [
+        "Good First Issue",
+        "maintenance & CI"
+      ],
+      "comments": 7,
+      "created_at": "2026-02-18T06:04:11Z",
+      "updated_at": "2026-03-06T17:25:39Z",
+      "language": null
+    },
+    {
+      "org": "GNU Radio",
+      "github": "gnuradio/gnuradio",
+      "logo": "https://avatars.githubusercontent.com/gnuradio",
+      "title": "Detect when modtool needs pygccxml and doesn't have it",
+      "url": "https://github.com/gnuradio/gnuradio/issues/6441",
+      "repo": "gnuradio/gnuradio",
+      "labels": [
+        "Feature Request",
+        "good first issue",
+        "modtool"
+      ],
+      "comments": 5,
+      "created_at": "2022-12-19T19:27:18Z",
+      "updated_at": "2026-05-18T21:35:11Z",
+      "language": null
+    },
+    {
+      "org": "GNU Radio",
+      "github": "gnuradio/gnuradio",
+      "logo": "https://avatars.githubusercontent.com/gnuradio",
+      "title": "Add enable_realtime_scheduling unit test",
+      "url": "https://github.com/gnuradio/gnuradio/issues/3592",
+      "repo": "gnuradio/gnuradio",
+      "labels": [
+        "Bug",
+        "Low",
+        "good first issue",
+        "QA"
+      ],
+      "comments": 3,
+      "created_at": "2020-06-21T00:13:20Z",
+      "updated_at": "2026-05-08T17:25:13Z",
+      "language": null
+    },
+    {
+      "org": "GNU Radio",
+      "github": "gnuradio/gnuradio",
+      "logo": "https://avatars.githubusercontent.com/gnuradio",
+      "title": "GRC: Allow for required parameters",
+      "url": "https://github.com/gnuradio/gnuradio/issues/5096",
+      "repo": "gnuradio/gnuradio",
+      "labels": [
+        "Feature Request",
+        "GRC",
+        "good first issue",
+        "codegen"
+      ],
+      "comments": 4,
+      "created_at": "2021-09-24T15:02:16Z",
+      "updated_at": "2026-03-17T18:53:37Z",
+      "language": null
+    },
+    {
+      "org": "Graphite",
+      "github": "GraphiteEditor/Graphite",
+      "logo": "https://avatars.githubusercontent.com/GraphiteEditor",
+      "title": "Bug: Offset while using brush tool on iPad",
+      "url": "https://github.com/GraphiteEditor/Graphite/issues/3286",
+      "repo": "GraphiteEditor/Graphite",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 11,
+      "created_at": "2025-10-14T21:14:45Z",
+      "updated_at": "2026-05-08T21:38:48Z",
+      "language": null
+    },
+    {
+      "org": "Graphite",
+      "github": "GraphiteEditor/Graphite",
+      "logo": "https://avatars.githubusercontent.com/GraphiteEditor",
+      "title": "Show selection bounding box width/height in the X/Y rulers",
+      "url": "https://github.com/GraphiteEditor/Graphite/issues/1969",
+      "repo": "GraphiteEditor/Graphite",
+      "labels": [
+        "Good First Issue",
+        "Web"
+      ],
+      "comments": 3,
+      "created_at": "2024-09-10T04:24:14Z",
+      "updated_at": "2026-05-02T00:59:39Z",
+      "language": null
+    },
+    {
+      "org": "Graphite",
+      "github": "GraphiteEditor/Graphite",
+      "logo": "https://avatars.githubusercontent.com/GraphiteEditor",
+      "title": "The Artboard tool needs to support G/S (grab and scale) transformation",
+      "url": "https://github.com/GraphiteEditor/Graphite/issues/4026",
+      "repo": "GraphiteEditor/Graphite",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 16,
+      "created_at": "2026-04-13T10:53:40Z",
+      "updated_at": "2026-05-01T20:04:26Z",
+      "language": null
+    },
+    {
+      "org": "Internet Archive",
+      "github": "internetarchive/openlibrary",
+      "logo": "https://avatars.githubusercontent.com/internetarchive",
+      "title": "List languages in correct alphabetical order",
+      "url": "https://github.com/internetarchive/openlibrary/issues/11962",
+      "repo": "internetarchive/openlibrary",
+      "labels": [
+        "Type: Bug",
+        "Good First Issue",
+        "Needs: Help",
+        "Priority: 4",
+        "Lead: @RayBB",
+        "Needs: Response",
+        "Needs: Review Assignee"
+      ],
+      "comments": 17,
+      "created_at": "2026-02-28T16:54:36Z",
+      "updated_at": "2026-05-12T03:20:38Z",
+      "language": null
+    },
+    {
+      "org": "Internet Archive",
+      "github": "internetarchive/openlibrary",
+      "logo": "https://avatars.githubusercontent.com/internetarchive",
+      "title": "Images broken on German version of openlibrary.org/tour",
+      "url": "https://github.com/internetarchive/openlibrary/issues/12540",
+      "repo": "internetarchive/openlibrary",
+      "labels": [
+        "Type: Bug",
+        "Priority: 3",
+        "Good First Issue",
+        "Affects: Documentation",
+        "Needs: Investigation",
+        "Lead: @RayBB",
+        "Needs: Response"
+      ],
+      "comments": 7,
+      "created_at": "2026-05-01T15:29:01Z",
+      "updated_at": "2026-05-09T08:59:33Z",
+      "language": null
+    },
+    {
+      "org": "Internet Archive",
+      "github": "internetarchive/openlibrary",
+      "logo": "https://avatars.githubusercontent.com/internetarchive",
+      "title": "refactor: convert Follow.html from macro to template for better security and type safety",
+      "url": "https://github.com/internetarchive/openlibrary/issues/12634",
+      "repo": "internetarchive/openlibrary",
+      "labels": [
+        "Type: Bug",
+        "Priority: 3",
+        "Good First Issue",
+        "Needs: Breakdown",
+        "Lead: @mekarpeles",
+        "Needs: Response"
+      ],
+      "comments": 4,
+      "created_at": "2026-05-05T22:46:23Z",
+      "updated_at": "2026-05-08T08:57:39Z",
+      "language": null
+    },
+    {
+      "org": "JabRef e.V.",
+      "github": "JabRef/jabref",
+      "logo": "https://avatars.githubusercontent.com/JabRef",
+      "title": "Menu View: Alt+ keyboard shortcuts do not work.",
+      "url": "https://github.com/JabRef/jabref/issues/6994",
+      "repo": "JabRef/jabref",
+      "labels": [
+        "component: ui",
+        "component: keybinding",
+        "good first issue",
+        "📍 Assigned",
+        "🔔 reminder-sent"
+      ],
+      "comments": 24,
+      "created_at": "2020-10-09T09:37:36Z",
+      "updated_at": "2026-05-20T13:11:56Z",
+      "language": null
+    },
+    {
+      "org": "JabRef e.V.",
+      "github": "JabRef/jabref",
+      "logo": "https://avatars.githubusercontent.com/JabRef",
+      "title": "When a user drag-n-drops a \"library\" file, then parse it, and add all its entries to the library",
+      "url": "https://github.com/JabRef/jabref/issues/15391",
+      "repo": "JabRef/jabref",
+      "labels": [
+        "good first issue",
+        "📍 Assigned",
+        "🔔 reminder-sent"
+      ],
+      "comments": 15,
+      "created_at": "2026-03-23T09:09:44Z",
+      "updated_at": "2026-05-20T13:11:53Z",
+      "language": null
+    },
+    {
+      "org": "JabRef e.V.",
+      "github": "JabRef/jabref",
+      "logo": "https://avatars.githubusercontent.com/JabRef",
+      "title": "Replace all `styleProperty()` bindings with proper styleClasses",
+      "url": "https://github.com/JabRef/jabref/issues/15721",
+      "repo": "JabRef/jabref",
+      "labels": [
+        "component: ui",
+        "good first issue",
+        "📍 Assigned",
+        "component: css",
+        "🔔 reminder-sent"
+      ],
+      "comments": 8,
+      "created_at": "2026-05-12T11:41:41Z",
+      "updated_at": "2026-05-20T13:11:50Z",
+      "language": null
+    },
+    {
+      "org": "JdeRobot",
+      "github": "JdeRobot/BehaviorMetrics",
+      "logo": "https://avatars.githubusercontent.com/JdeRobot",
+      "title": "Fixing the load and reload button",
+      "url": "https://github.com/JdeRobot/BehaviorMetrics/issues/675",
+      "repo": "JdeRobot/BehaviorMetrics",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 5,
+      "created_at": "2024-03-23T16:55:12Z",
+      "updated_at": "2025-12-07T09:56:57Z",
+      "language": null
+    },
+    {
+      "org": "JdeRobot",
+      "github": "JdeRobot/BehaviorMetrics",
+      "logo": "https://avatars.githubusercontent.com/JdeRobot",
+      "title": "Review quick start guide for CARLA simulator and update it",
+      "url": "https://github.com/JdeRobot/BehaviorMetrics/issues/667",
+      "repo": "JdeRobot/BehaviorMetrics",
+      "labels": [
+        "documentation",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2024-02-26T18:47:03Z",
+      "updated_at": "2025-11-10T16:21:57Z",
+      "language": null
+    },
+    {
+      "org": "Jenkins",
+      "github": "jenkinsci/jenkins",
+      "logo": "https://avatars.githubusercontent.com/jenkinsci",
+      "title": "Add an `AbortController` to `FormChecker.delayedCheck`",
+      "url": "https://github.com/jenkinsci/jenkins/issues/26594",
+      "repo": "jenkinsci/jenkins",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2026-04-07T15:41:33Z",
+      "updated_at": "2026-05-06T06:33:09Z",
+      "language": null
+    },
+    {
+      "org": "Jenkins",
+      "github": "jenkinsci/jenkins",
+      "logo": "https://avatars.githubusercontent.com/jenkinsci",
+      "title": "Deleting an element from a \"full\" hetero(?) list does not re-enable the \"Add\" button",
+      "url": "https://github.com/jenkinsci/jenkins/issues/26737",
+      "repo": "jenkinsci/jenkins",
+      "labels": [
+        "regression",
+        "good first issue",
+        "lts-candidate"
+      ],
+      "comments": 1,
+      "created_at": "2026-05-04T09:15:52Z",
+      "updated_at": "2026-05-04T21:21:39Z",
+      "language": null
+    },
+    {
+      "org": "Jenkins",
+      "github": "jenkinsci/jenkins",
+      "logo": "https://avatars.githubusercontent.com/jenkinsci",
+      "title": "[JENKINS-59467] Issue Template: Migrate documentation from Wiki to GitHub",
+      "url": "https://github.com/jenkinsci/jenkins/issues/25425",
+      "repo": "jenkinsci/jenkins",
+      "labels": [
+        "good first issue",
+        "imported-jira-issue",
+        "priority:minor",
+        "resolution:unresolved",
+        "enhancement",
+        "component:other"
+      ],
+      "comments": 10,
+      "created_at": "2019-09-21T00:37:32Z",
+      "updated_at": "2026-03-29T16:31:26Z",
+      "language": null
+    },
+    {
+      "org": "Kiwix",
+      "github": "kiwix/kiwix-android",
+      "logo": "https://avatars.githubusercontent.com/kiwix",
+      "title": "Consistency theme in the Dark",
+      "url": "https://github.com/kiwix/kiwix-android/issues/4673",
+      "repo": "kiwix/kiwix-android",
+      "labels": [
+        "good first issue",
+        "UI"
+      ],
+      "comments": 10,
+      "created_at": "2026-02-09T15:14:37Z",
+      "updated_at": "2026-05-21T12:37:03Z",
+      "language": null
+    },
+    {
+      "org": "Kiwix",
+      "github": "kiwix/kiwix-android",
+      "logo": "https://avatars.githubusercontent.com/kiwix",
+      "title": "Use accompanist in place of custom homebrewed permission request",
+      "url": "https://github.com/kiwix/kiwix-android/issues/4819",
+      "repo": "kiwix/kiwix-android",
+      "labels": [
+        "good first issue",
+        "task"
+      ],
+      "comments": 1,
+      "created_at": "2026-04-15T08:20:07Z",
+      "updated_at": "2026-04-15T09:44:40Z",
+      "language": null
+    },
+    {
+      "org": "Kiwix",
+      "github": "kiwix/kiwix-android",
+      "logo": "https://avatars.githubusercontent.com/kiwix",
+      "title": "Remove the swipe gesture from the bottom once the user is familiar with the app",
+      "url": "https://github.com/kiwix/kiwix-android/issues/4621",
+      "repo": "kiwix/kiwix-android",
+      "labels": [
+        "question",
+        "good first issue",
+        "UI"
+      ],
+      "comments": 5,
+      "created_at": "2026-01-25T14:00:22Z",
+      "updated_at": "2026-03-31T14:13:57Z",
+      "language": null
+    },
+    {
+      "org": "Kornia",
+      "github": "kornia/kornia",
+      "logo": "https://avatars.githubusercontent.com/kornia",
+      "title": "Remove old `grad` / `jit` / `nn` markers from tests",
+      "url": "https://github.com/kornia/kornia/issues/2601",
+      "repo": "kornia/kornia",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "Difficulty: easy"
+      ],
+      "comments": 9,
+      "created_at": "2023-10-03T21:41:54Z",
+      "updated_at": "2026-03-20T18:04:48Z",
+      "language": null
+    },
+    {
+      "org": "Kornia",
+      "github": "kornia/kornia",
+      "logo": "https://avatars.githubusercontent.com/kornia",
+      "title": "[Feature request] Common stereo metrics.",
+      "url": "https://github.com/kornia/kornia/issues/1123",
+      "repo": "kornia/kornia",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "feature request"
+      ],
+      "comments": 30,
+      "created_at": "2021-06-23T22:10:55Z",
+      "updated_at": "2026-03-20T18:01:15Z",
+      "language": null
+    },
+    {
+      "org": "Kornia",
+      "github": "kornia/kornia",
+      "logo": "https://avatars.githubusercontent.com/kornia",
+      "title": "[Tracker] Code health related to ruff",
+      "url": "https://github.com/kornia/kornia/issues/2445",
+      "repo": "kornia/kornia",
+      "labels": [
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 11,
+      "created_at": "2023-07-09T12:56:45Z",
+      "updated_at": "2026-03-07T11:36:30Z",
+      "language": null
+    },
+    {
+      "org": "LabLua",
+      "github": "pallene-lang/pallene",
+      "logo": "https://avatars.githubusercontent.com/pallene-lang",
+      "title": "Remove unused `GlobalVar` constructor",
+      "url": "https://github.com/pallene-lang/pallene/issues/662",
+      "repo": "pallene-lang/pallene",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-01T04:11:30Z",
+      "updated_at": "2026-05-01T04:11:30Z",
+      "language": null
+    },
+    {
+      "org": "Learning Equality",
+      "github": "learningequality/kolibri",
+      "logo": "https://avatars.githubusercontent.com/learningequality",
+      "title": "Migrate Device content tree tests to Vue Testing Library",
+      "url": "https://github.com/learningequality/kolibri/issues/14262",
+      "repo": "learningequality/kolibri",
+      "labels": [
+        "TAG: tech update / debt",
+        "P3 - low",
+        "APP: Device",
+        "DEV: frontend",
+        "help wanted",
+        "good first issue",
+        "community-contribution-in-progress"
+      ],
+      "comments": 21,
+      "created_at": "2026-02-26T17:21:24Z",
+      "updated_at": "2026-04-29T06:54:31Z",
+      "language": null
+    },
+    {
+      "org": "Learning Equality",
+      "github": "learningequality/kolibri",
+      "logo": "https://avatars.githubusercontent.com/learningequality",
+      "title": "Migrate Device channel management tests to Vue Testing Library",
+      "url": "https://github.com/learningequality/kolibri/issues/14261",
+      "repo": "learningequality/kolibri",
+      "labels": [
+        "TAG: tech update / debt",
+        "P3 - low",
+        "APP: Device",
+        "DEV: frontend",
+        "help wanted",
+        "good first issue",
+        "community-contribution-in-progress"
+      ],
+      "comments": 13,
+      "created_at": "2026-02-26T17:21:17Z",
+      "updated_at": "2026-04-23T08:32:23Z",
+      "language": null
+    },
+    {
+      "org": "Learning Equality",
+      "github": "learningequality/kolibri",
+      "logo": "https://avatars.githubusercontent.com/learningequality",
+      "title": "Migrate Device transfer modal tests to Vue Testing Library",
+      "url": "https://github.com/learningequality/kolibri/issues/14263",
+      "repo": "learningequality/kolibri",
+      "labels": [
+        "TAG: tech update / debt",
+        "P3 - low",
+        "APP: Device",
+        "DEV: frontend",
+        "help wanted",
+        "good first issue",
+        "community-contribution-in-progress"
+      ],
+      "comments": 14,
+      "created_at": "2026-02-26T17:21:30Z",
+      "updated_at": "2026-04-09T09:03:17Z",
+      "language": null
+    },
+    {
+      "org": "LibreHealth",
+      "github": "LibreHealthIO/lh-ehr",
+      "logo": "https://avatars.githubusercontent.com/LibreHealthIO",
+      "title": "“Print selected statement” displays a list of patients.",
+      "url": "https://github.com/LibreHealthIO/lh-ehr/issues/1458",
+      "repo": "LibreHealthIO/lh-ehr",
+      "labels": [
+        "good first issue",
+        "outreachy"
+      ],
+      "comments": 7,
+      "created_at": "2019-03-21T15:34:36Z",
+      "updated_at": "2025-12-31T16:20:31Z",
+      "language": null
+    },
+    {
+      "org": "LLVM Compiler Infrastructure",
+      "github": "llvm/llvm-project",
+      "logo": "https://avatars.githubusercontent.com/llvm",
+      "title": "[X86] Missed Optimization: Vector 8-bit `rotl(x, 1)` should be lowered as `(x + x) - (x < 0)`",
+      "url": "https://github.com/llvm/llvm-project/issues/198059",
+      "repo": "llvm/llvm-project",
+      "labels": [
+        "good first issue",
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "comments": 7,
+      "created_at": "2026-05-16T04:09:00Z",
+      "updated_at": "2026-05-21T11:55:24Z",
+      "language": null
+    },
+    {
+      "org": "LLVM Compiler Infrastructure",
+      "github": "llvm/llvm-project",
+      "logo": "https://avatars.githubusercontent.com/llvm",
+      "title": "[DAG] ISD::matchUnaryPredicate / matchUnaryFpPredicate / matchBinaryPredicate - add DemandedElts variant",
+      "url": "https://github.com/llvm/llvm-project/issues/181658",
+      "repo": "llvm/llvm-project",
+      "labels": [
+        "good first issue",
+        "llvm:SelectionDAG"
+      ],
+      "comments": 6,
+      "created_at": "2026-02-16T12:56:31Z",
+      "updated_at": "2026-05-21T09:30:17Z",
+      "language": null
+    },
+    {
+      "org": "LLVM Compiler Infrastructure",
+      "github": "llvm/llvm-project",
+      "logo": "https://avatars.githubusercontent.com/llvm",
+      "title": "OCUDU benchmarks notably slower on clang22 than gcc16 on avx512 target",
+      "url": "https://github.com/llvm/llvm-project/issues/198106",
+      "repo": "llvm/llvm-project",
+      "labels": [
+        "good first issue",
+        "performance"
+      ],
+      "comments": 8,
+      "created_at": "2026-05-16T15:27:12Z",
+      "updated_at": "2026-05-21T09:07:43Z",
+      "language": null
+    },
+    {
+      "org": "Meshery",
+      "github": "meshery/meshery",
+      "logo": "https://avatars.githubusercontent.com/meshery",
+      "title": "[Docs] \"primary\" alert color has illegible contrast",
+      "url": "https://github.com/meshery/meshery/issues/19286",
+      "repo": "meshery/meshery",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area/docs",
+        "first-timers-only",
+        "language/markdown",
+        "framework/hugo"
+      ],
+      "comments": 3,
+      "created_at": "2026-05-12T23:30:47Z",
+      "updated_at": "2026-05-18T12:07:22Z",
+      "language": null
+    },
+    {
+      "org": "Meshery",
+      "github": "meshery/meshery",
+      "logo": "https://avatars.githubusercontent.com/meshery",
+      "title": "[Docs] \"secondary\" alert color has illegible contrast",
+      "url": "https://github.com/meshery/meshery/issues/19287",
+      "repo": "meshery/meshery",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area/docs",
+        "first-timers-only",
+        "language/markdown",
+        "framework/hugo"
+      ],
+      "comments": 7,
+      "created_at": "2026-05-12T23:32:39Z",
+      "updated_at": "2026-05-18T06:10:40Z",
+      "language": null
+    },
+    {
+      "org": "Meshery",
+      "github": "meshery/meshery",
+      "logo": "https://avatars.githubusercontent.com/meshery",
+      "title": "[Docs] Rephrase Note on Deletion from Creating Models documentation.",
+      "url": "https://github.com/meshery/meshery/issues/18277",
+      "repo": "meshery/meshery",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area/docs",
+        "first-timers-only",
+        "language/markdown",
+        "framework/hugo"
+      ],
+      "comments": 14,
+      "created_at": "2026-03-27T15:45:08Z",
+      "updated_at": "2026-05-18T06:07:47Z",
+      "language": null
+    },
+    {
+      "org": "MetaCall",
+      "github": "metacall/core",
+      "logo": "https://avatars.githubusercontent.com/metacall",
+      "title": "pre-commit-clang-format not working on windows",
+      "url": "https://github.com/metacall/core/issues/370",
+      "repo": "metacall/core",
+      "labels": [
+        "bug",
+        "good first issue",
+        "devops"
+      ],
+      "comments": 16,
+      "created_at": "2023-01-17T12:46:51Z",
+      "updated_at": "2026-03-30T17:36:13Z",
+      "language": null
+    },
+    {
+      "org": "MetaCall",
+      "github": "metacall/core",
+      "logo": "https://avatars.githubusercontent.com/metacall",
+      "title": "Implement Haskell Loader",
+      "url": "https://github.com/metacall/core/issues/36",
+      "repo": "metacall/core",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2019-12-31T10:06:48Z",
+      "updated_at": "2026-03-27T13:17:29Z",
+      "language": null
+    },
+    {
+      "org": "Neuroinformatics Unit",
+      "github": "neuroinformatics-unit/movement",
+      "logo": "https://avatars.githubusercontent.com/neuroinformatics-unit",
+      "title": "Overwrite existing file when saving",
+      "url": "https://github.com/neuroinformatics-unit/movement/issues/813",
+      "repo": "neuroinformatics-unit/movement",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2026-02-11T18:12:28Z",
+      "updated_at": "2026-03-22T08:33:34Z",
+      "language": null
+    },
+    {
+      "org": "omegaUp",
+      "github": "omegaup/omegaup",
+      "logo": "https://avatars.githubusercontent.com/omegaup",
+      "title": "[Bug] Lone question mark wraps to next line on mobile view in User Preferences",
+      "url": "https://github.com/omegaup/omegaup/issues/9746",
+      "repo": "omegaup/omegaup",
+      "labels": [
+        "bug",
+        "Good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2026-04-07T09:07:00Z",
+      "updated_at": "2026-05-19T11:35:35Z",
+      "language": null
+    },
+    {
+      "org": "omegaUp",
+      "github": "omegaup/omegaup",
+      "logo": "https://avatars.githubusercontent.com/omegaup",
+      "title": "[FEATURE] Align Global submissions  page title with Latest submissions menu label",
+      "url": "https://github.com/omegaup/omegaup/issues/9521",
+      "repo": "omegaup/omegaup",
+      "labels": [
+        "feature-request",
+        "Good first issue"
+      ],
+      "comments": 19,
+      "created_at": "2026-03-12T19:50:57Z",
+      "updated_at": "2026-05-17T14:32:30Z",
+      "language": null
+    },
+    {
+      "org": "omegaUp",
+      "github": "omegaup/omegaup",
+      "logo": "https://avatars.githubusercontent.com/omegaup",
+      "title": "[BUG] The problem finder modal doesn't close when escape key is clicked and when clicked outside",
+      "url": "https://github.com/omegaup/omegaup/issues/9695",
+      "repo": "omegaup/omegaup",
+      "labels": [
+        "bug",
+        "Good first issue",
+        "GSoC",
+        "Stale"
+      ],
+      "comments": 7,
+      "created_at": "2026-03-30T07:00:28Z",
+      "updated_at": "2026-05-17T12:23:16Z",
+      "language": null
+    },
+    {
+      "org": "Open Food Facts",
+      "github": "openfoodfacts/openfoodfacts-server",
+      "logo": "https://avatars.githubusercontent.com/openfoodfacts",
+      "title": "\"Comparison to average values of products in the same category\" is unclear",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2497",
+      "repo": "openfoodfacts/openfoodfacts-server",
+      "labels": [
+        "⏲️ 5 minute fix",
+        "averages by categories",
+        "📚 Documentation",
+        "good first issue",
+        "Fixed ?",
+        "🎨 Design"
+      ],
+      "comments": 8,
+      "created_at": "2019-10-28T19:10:56Z",
+      "updated_at": "2026-05-03T17:00:36Z",
+      "language": null
+    },
+    {
+      "org": "Open Food Facts",
+      "github": "openfoodfacts/openfoodfacts-server",
+      "logo": "https://avatars.githubusercontent.com/openfoodfacts",
+      "title": "Log key events of the web version of Open Food Facts in Matomo",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8191",
+      "repo": "openfoodfacts/openfoodfacts-server",
+      "labels": [
+        "🎯 P1",
+        "good first issue",
+        "JavaScript",
+        "⏰ Stale",
+        "monitoring",
+        "matomo",
+        "image deletion"
+      ],
+      "comments": 5,
+      "created_at": "2023-03-13T15:50:36Z",
+      "updated_at": "2026-03-27T10:41:29Z",
+      "language": null
+    },
+    {
+      "org": "Open Food Facts",
+      "github": "openfoodfacts/openfoodfacts-server",
+      "logo": "https://avatars.githubusercontent.com/openfoodfacts",
+      "title": "Folksonomy Engine loads CSS and a font from CDNs",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9012",
+      "repo": "openfoodfacts/openfoodfacts-server",
+      "labels": [
+        "🎯 P1",
+        "good first issue",
+        "JavaScript",
+        "CSS",
+        "🏷️ Folksonomy Project",
+        ":star: top issue",
+        ":star: :bug: top bug"
+      ],
+      "comments": 6,
+      "created_at": "2023-09-17T13:20:18Z",
+      "updated_at": "2026-03-25T18:28:26Z",
       "language": null
     },
     {
@@ -531,6 +1695,39 @@
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
       "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
+      "title": "[Good First Issue] [RISCV64]: Implement CPU plugin just-in-time emitter for Swish operation",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/30247",
+      "repo": "openvinotoolkit/openvino",
+      "labels": [
+        "good first issue",
+        "category: CPU",
+        "platform: risc-v"
+      ],
+      "comments": 10,
+      "created_at": "2025-04-21T12:08:43Z",
+      "updated_at": "2026-05-16T12:05:13Z",
+      "language": null
+    },
+    {
+      "org": "OpenVINO Toolkit",
+      "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
+      "title": "[Good First Issue]: Support aten::set_",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29714",
+      "repo": "openvinotoolkit/openvino",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "comments": 19,
+      "created_at": "2025-03-25T12:12:33Z",
+      "updated_at": "2026-05-12T09:30:46Z",
+      "language": null
+    },
+    {
+      "org": "OpenVINO Toolkit",
+      "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
       "title": "[Good First Issue] [ARM] [Debug Caps] : Implement register prints in just-in-time Kernels",
       "url": "https://github.com/openvinotoolkit/openvino/issues/27715",
       "repo": "openvinotoolkit/openvino",
@@ -545,53 +1742,19 @@
       "language": null
     },
     {
-      "org": "OpenVINO Toolkit",
-      "github": "openvinotoolkit/openvino",
-      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Support aten::rrelu and aten::rrelu_ for pytorch models",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/23746",
-      "repo": "openvinotoolkit/openvino",
-      "labels": [
-        "good first issue",
-        "category: PyTorch FE",
-        "no_stale"
-      ],
-      "comments": 22,
-      "created_at": "2024-03-28T11:22:44Z",
-      "updated_at": "2026-05-07T15:34:32Z",
-      "language": null
-    },
-    {
-      "org": "OpenVINO Toolkit",
-      "github": "openvinotoolkit/openvino",
-      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
-      "repo": "openvinotoolkit/openvino",
-      "labels": [
-        "good first issue",
-        "category: PyTorch FE",
-        "no_stale"
-      ],
-      "comments": 15,
-      "created_at": "2025-01-27T23:12:04Z",
-      "updated_at": "2026-05-05T09:33:33Z",
-      "language": null
-    },
-    {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Blog page is not accessible via sidebar in mobile view",
-      "url": "https://github.com/oppia/oppia/issues/25094",
+      "title": "[BUG]: External “Forum” link opens in the same tab instead of a new tab",
+      "url": "https://github.com/oppia/oppia/issues/24734",
       "repo": "oppia/oppia",
       "labels": [
         "good first issue",
         "bug"
       ],
-      "comments": 4,
-      "created_at": "2026-02-26T14:50:07Z",
-      "updated_at": "2026-05-09T10:28:44Z",
+      "comments": 6,
+      "created_at": "2026-02-02T05:57:42Z",
+      "updated_at": "2026-05-21T14:23:27Z",
       "language": null
     },
     {
@@ -609,23 +1772,26 @@
       ],
       "comments": 221,
       "created_at": "2025-09-30T13:46:56Z",
-      "updated_at": "2026-05-08T18:20:56Z",
+      "updated_at": "2026-05-21T09:55:50Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Acceptance test re-run steps do not work due to server not being shut down",
-      "url": "https://github.com/oppia/oppia/issues/23830",
+      "title": "[Feature Request]: Remove E2E test creatorDashboard.js",
+      "url": "https://github.com/oppia/oppia/issues/24494",
       "repo": "oppia/oppia",
       "labels": [
         "good first issue",
-        "bug"
+        "enhancement",
+        "Impact: High",
+        "Work: Low",
+        "IUJ LC.12"
       ],
-      "comments": 69,
-      "created_at": "2025-11-10T13:24:25Z",
-      "updated_at": "2026-05-08T00:17:04Z",
+      "comments": 64,
+      "created_at": "2026-01-14T12:47:06Z",
+      "updated_at": "2026-05-21T03:26:29Z",
       "language": null
     },
     {
@@ -796,55 +1962,736 @@
       "org": "Rizin",
       "github": "rizinorg/rizin",
       "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "Horizontal histogram ruler - legend should be context-dependent",
-      "url": "https://github.com/rizinorg/rizin/issues/5290",
+      "title": "Rework disassembly API",
+      "url": "https://github.com/rizinorg/rizin/issues/3086",
       "repo": "rizinorg/rizin",
       "labels": [
         "good first issue",
-        "RzCons",
+        "API",
+        "refactor"
+      ],
+      "comments": 1,
+      "created_at": "2022-10-11T05:03:28Z",
+      "updated_at": "2026-05-18T17:36:50Z",
+      "language": null
+    },
+    {
+      "org": "Rizin",
+      "github": "rizinorg/rizin",
+      "logo": "https://avatars.githubusercontent.com/rizinorg",
+      "title": "Show an error when architecture doesn't exist when `-m` option is used.",
+      "url": "https://github.com/rizinorg/rizin/issues/6367",
+      "repo": "rizinorg/rizin",
+      "labels": [
+        "good first issue",
+        "rz-asm",
+        "high-priority"
+      ],
+      "comments": 0,
+      "created_at": "2026-05-17T06:28:21Z",
+      "updated_at": "2026-05-17T12:54:42Z",
+      "language": null
+    },
+    {
+      "org": "Rizin",
+      "github": "rizinorg/rizin",
+      "logo": "https://avatars.githubusercontent.com/rizinorg",
+      "title": "Support colors and Unicode characters in the visual bit editor.",
+      "url": "https://github.com/rizinorg/rizin/issues/6361",
+      "repo": "rizinorg/rizin",
+      "labels": [
+        "good first issue",
+        "visual",
         "UX/UI"
       ],
-      "comments": 3,
-      "created_at": "2025-08-04T13:13:29Z",
-      "updated_at": "2026-05-07T17:08:36Z",
+      "comments": 0,
+      "created_at": "2026-05-16T08:05:58Z",
+      "updated_at": "2026-05-16T08:05:58Z",
       "language": null
     },
     {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "Refactor use of `core->block` to the transparent IO access",
-      "url": "https://github.com/rizinorg/rizin/issues/2695",
-      "repo": "rizinorg/rizin",
+      "org": "rocket.chat",
+      "github": "RocketChat/Rocket.Chat",
+      "logo": "https://avatars.githubusercontent.com/RocketChat",
+      "title": "Suggestion: Allow screen sharing, even when camera/mic not available",
+      "url": "https://github.com/RocketChat/Rocket.Chat/issues/1745",
+      "repo": "RocketChat/Rocket.Chat",
       "labels": [
+        "type: improvement",
+        "triaged",
+        "good first issue"
+      ],
+      "comments": 11,
+      "created_at": "2015-12-23T17:16:59Z",
+      "updated_at": "2026-04-14T12:35:54Z",
+      "language": null
+    },
+    {
+      "org": "rocket.chat",
+      "github": "RocketChat/Rocket.Chat",
+      "logo": "https://avatars.githubusercontent.com/RocketChat",
+      "title": "Omnichannel transfer comment is not wrapped to multiple lines",
+      "url": "https://github.com/RocketChat/Rocket.Chat/issues/26723",
+      "repo": "RocketChat/Rocket.Chat",
+      "labels": [
+        "area: ui/ux",
+        "hacktoberfest",
+        "good first issue"
+      ],
+      "comments": 62,
+      "created_at": "2022-08-29T10:24:21Z",
+      "updated_at": "2026-04-01T17:30:42Z",
+      "language": null
+    },
+    {
+      "org": "rocket.chat",
+      "github": "RocketChat/Rocket.Chat",
+      "logo": "https://avatars.githubusercontent.com/RocketChat",
+      "title": "Settings for confirmation for using @all notification on messages",
+      "url": "https://github.com/RocketChat/Rocket.Chat/issues/909",
+      "repo": "RocketChat/Rocket.Chat",
+      "labels": [
+        "area: ui/ux",
+        "type: improvement",
+        "gsoc-project",
+        "triaged",
+        "good first issue"
+      ],
+      "comments": 21,
+      "created_at": "2015-09-26T17:31:38Z",
+      "updated_at": "2026-03-29T19:53:07Z",
+      "language": null
+    },
+    {
+      "org": "SageMath",
+      "github": "sagemath/sage",
+      "logo": "https://avatars.githubusercontent.com/sagemath",
+      "title": "[Meta] Add typing info",
+      "url": "https://github.com/sagemath/sage/issues/41722",
+      "repo": "sagemath/sage",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 11,
+      "created_at": "2026-02-27T15:47:13Z",
+      "updated_at": "2026-04-13T17:14:20Z",
+      "language": null
+    },
+    {
+      "org": "SageMath",
+      "github": "sagemath/sage",
+      "logo": "https://avatars.githubusercontent.com/sagemath",
+      "title": "_repr_short_ methods for rings and modules",
+      "url": "https://github.com/sagemath/sage/issues/33006",
+      "repo": "sagemath/sage",
+      "labels": [
+        "p: major / 3",
+        "t: enhancement",
         "good first issue",
-        "RzIO",
-        "API",
-        "RzCore",
-        "refactor",
-        "Tracking"
+        "t: refactoring"
       ],
       "comments": 3,
-      "created_at": "2022-06-14T12:55:00Z",
-      "updated_at": "2026-05-06T18:41:06Z",
+      "created_at": "2021-12-09T21:37:50Z",
+      "updated_at": "2026-03-26T22:47:31Z",
       "language": null
     },
     {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "Add missing header (`iH`) information to some bin formats",
-      "url": "https://github.com/rizinorg/rizin/issues/5728",
-      "repo": "rizinorg/rizin",
+      "org": "SageMath",
+      "github": "sagemath/sage",
+      "logo": "https://avatars.githubusercontent.com/sagemath",
+      "title": "Replace ad-hoc package installation instructions by links to SPKG page",
+      "url": "https://github.com/sagemath/sage/issues/37532",
+      "repo": "sagemath/sage",
+      "labels": [
+        "c: documentation",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2024-03-03T18:36:21Z",
+      "updated_at": "2026-02-24T18:14:07Z",
+      "language": null
+    },
+    {
+      "org": "St. Jude Children's Research Hospital",
+      "github": "stjudecloud/workflows",
+      "logo": "https://avatars.githubusercontent.com/stjudecloud",
+      "title": "tool wishlist",
+      "url": "https://github.com/stjudecloud/workflows/issues/228",
+      "repo": "stjudecloud/workflows",
       "labels": [
         "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 0,
+      "created_at": "2025-05-12T20:30:17Z",
+      "updated_at": "2025-07-28T14:56:22Z",
+      "language": null
+    },
+    {
+      "org": "stdlib",
+      "github": "stdlib-js/stdlib",
+      "logo": "https://avatars.githubusercontent.com/stdlib-js",
+      "title": "Fix JavaScript lint errors",
+      "url": "https://github.com/stdlib-js/stdlib/issues/12222",
+      "repo": "stdlib-js/stdlib",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 1,
+      "created_at": "2026-05-21T00:37:24Z",
+      "updated_at": "2026-05-21T00:37:32Z",
+      "language": null
+    },
+    {
+      "org": "stdlib",
+      "github": "stdlib-js/stdlib",
+      "logo": "https://avatars.githubusercontent.com/stdlib-js",
+      "title": "Fix JavaScript lint errors",
+      "url": "https://github.com/stdlib-js/stdlib/issues/12208",
+      "repo": "stdlib-js/stdlib",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 1,
+      "created_at": "2026-05-20T00:34:08Z",
+      "updated_at": "2026-05-20T00:34:16Z",
+      "language": null
+    },
+    {
+      "org": "stdlib",
+      "github": "stdlib-js/stdlib",
+      "logo": "https://avatars.githubusercontent.com/stdlib-js",
+      "title": "Fix JavaScript lint errors",
+      "url": "https://github.com/stdlib-js/stdlib/issues/12195",
+      "repo": "stdlib-js/stdlib",
+      "labels": [
+        "Good First Issue"
+      ],
+      "comments": 2,
+      "created_at": "2026-05-19T00:32:17Z",
+      "updated_at": "2026-05-19T17:20:56Z",
+      "language": null
+    },
+    {
+      "org": "Stichting SU2",
+      "github": "su2code/SU2",
+      "logo": "https://avatars.githubusercontent.com/su2code",
+      "title": "Issues with compiling SU2 on Windows 10",
+      "url": "https://github.com/su2code/SU2/issues/1468",
+      "repo": "su2code/SU2",
+      "labels": [
+        "enhancement",
+        "documentation",
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2021-12-08T17:39:03Z",
+      "updated_at": "2026-01-02T10:36:25Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "TA grading panel view of PDF cannot view top of first page",
+      "url": "https://github.com/Submitty/Submitty/issues/12763",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "bug",
+        "TA Grading / TA UI",
         "good first issue",
-        "RzBin",
-        "test-required"
+        "URGENT / PRIORITY"
+      ],
+      "comments": 0,
+      "created_at": "2026-04-08T02:21:48Z",
+      "updated_at": "2026-04-16T20:27:11Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "Add link from Rainbow Grades to each Gradeable (w/ autograding or TA grading)",
+      "url": "https://github.com/Submitty/Submitty/issues/10433",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "enhancement / feature request",
+        "Rainbow Grades",
+        "good first issue"
+      ],
+      "comments": 2,
+      "created_at": "2024-05-13T21:01:21Z",
+      "updated_at": "2026-04-11T14:11:14Z",
+      "language": null
+    },
+    {
+      "org": "Submitty",
+      "github": "Submitty/Submitty",
+      "logo": "https://avatars.githubusercontent.com/Submitty",
+      "title": "Enhance Forum Search Feature",
+      "url": "https://github.com/Submitty/Submitty/issues/12619",
+      "repo": "Submitty/Submitty",
+      "labels": [
+        "enhancement / feature request",
+        "good first issue",
+        "Discussion Forum / Live Chat",
+        "Awaiting Triage"
       ],
       "comments": 5,
-      "created_at": "2026-01-04T12:15:54Z",
-      "updated_at": "2026-05-06T09:05:03Z",
+      "created_at": "2026-03-21T19:36:38Z",
+      "updated_at": "2026-04-05T02:46:32Z",
+      "language": null
+    },
+    {
+      "org": "SW360",
+      "github": "eclipse-sw360/sw360",
+      "logo": "https://avatars.githubusercontent.com/eclipse-sw360",
+      "title": "License moderation request cannot be opened",
+      "url": "https://github.com/eclipse-sw360/sw360/issues/149",
+      "repo": "eclipse-sw360/sw360",
+      "labels": [
+        "bug",
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2018-04-26T15:13:27Z",
+      "updated_at": "2026-03-07T09:12:35Z",
+      "language": null
+    },
+    {
+      "org": "SW360",
+      "github": "eclipse-sw360/sw360",
+      "logo": "https://avatars.githubusercontent.com/eclipse-sw360",
+      "title": "Automation of clearing details of components",
+      "url": "https://github.com/eclipse-sw360/sw360/issues/119",
+      "repo": "eclipse-sw360/sw360",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2018-04-26T15:08:24Z",
+      "updated_at": "2026-02-01T14:52:36Z",
+      "language": null
+    },
+    {
+      "org": "SW360",
+      "github": "eclipse-sw360/sw360",
+      "logo": "https://avatars.githubusercontent.com/eclipse-sw360",
+      "title": "Spreadsheet export as XML or CSV",
+      "url": "https://github.com/eclipse-sw360/sw360/issues/309",
+      "repo": "eclipse-sw360/sw360",
+      "labels": [
+        "enhancement",
+        "good first issue"
+      ],
+      "comments": 4,
+      "created_at": "2018-06-28T11:25:38Z",
+      "updated_at": "2025-10-08T08:51:43Z",
+      "language": null
+    },
+    {
+      "org": "Swift",
+      "github": "swiftlang/swift",
+      "logo": "https://avatars.githubusercontent.com/swiftlang",
+      "title": "Invalid fix-it on unused optional binding when multiple conditions",
+      "url": "https://github.com/swiftlang/swift/issues/89131",
+      "repo": "swiftlang/swift",
+      "labels": [
+        "compiler",
+        "good first issue",
+        "diagnostics quality",
+        "type checker",
+        "fix-its",
+        "statements",
+        "swift 6.4"
+      ],
+      "comments": 2,
+      "created_at": "2026-05-14T15:30:53Z",
+      "updated_at": "2026-05-16T08:50:49Z",
+      "language": null
+    },
+    {
+      "org": "Swift",
+      "github": "swiftlang/swift",
+      "logo": "https://avatars.githubusercontent.com/swiftlang",
+      "title": "Error says `@preconcurrency` only applies in inheritance clauses",
+      "url": "https://github.com/swiftlang/swift/issues/88338",
+      "repo": "swiftlang/swift",
+      "labels": [
+        "compiler",
+        "good first issue",
+        "type checker",
+        "TypeResolver",
+        "attributes",
+        "@preconcurrency",
+        "swift 6.3"
+      ],
+      "comments": 2,
+      "created_at": "2026-04-07T11:45:33Z",
+      "updated_at": "2026-05-15T06:23:45Z",
+      "language": null
+    },
+    {
+      "org": "Swift",
+      "github": "swiftlang/swift",
+      "logo": "https://avatars.githubusercontent.com/swiftlang",
+      "title": "[SR-8252] Consolidate and Fix -debug-crash-* Flags",
+      "url": "https://github.com/swiftlang/swift/issues/50784",
+      "repo": "swiftlang/swift",
+      "labels": [
+        "improvement",
+        "compiler",
+        "good first issue"
+      ],
+      "comments": 3,
+      "created_at": "2018-07-13T20:01:07Z",
+      "updated_at": "2026-05-09T08:21:01Z",
+      "language": null
+    },
+    {
+      "org": "SymPy",
+      "github": "sympy/sympy",
+      "logo": "https://avatars.githubusercontent.com/sympy",
+      "title": "Refine is not able to make many simplifications",
+      "url": "https://github.com/sympy/sympy/issues/27888",
+      "repo": "sympy/sympy",
+      "labels": [
+        "Easy to Fix",
+        "assumptions",
+        "good first issue",
+        "assumptions.refine"
+      ],
+      "comments": 29,
+      "created_at": "2025-04-03T23:15:01Z",
+      "updated_at": "2026-04-21T23:37:09Z",
+      "language": null
+    },
+    {
+      "org": "SymPy",
+      "github": "sympy/sympy",
+      "logo": "https://avatars.githubusercontent.com/sympy",
+      "title": "Adding more type annotations to the codebase",
+      "url": "https://github.com/sympy/sympy/issues/28806",
+      "repo": "sympy/sympy",
+      "labels": [
+        "Easy to Fix",
+        "good first issue",
+        "typing"
+      ],
+      "comments": 101,
+      "created_at": "2025-12-21T13:17:04Z",
+      "updated_at": "2026-04-15T21:14:37Z",
+      "language": null
+    },
+    {
+      "org": "Synfig",
+      "github": "synfig/synfig",
+      "logo": "https://avatars.githubusercontent.com/synfig",
+      "title": "\"Add Layer\" button to toolbar?",
+      "url": "https://github.com/synfig/synfig/issues/1139",
+      "repo": "synfig/synfig",
+      "labels": [
+        "Feature request",
+        "help wanted",
+        "good first issue"
+      ],
+      "comments": 22,
+      "created_at": "2020-02-01T13:11:00Z",
+      "updated_at": "2026-02-28T14:43:35Z",
+      "language": null
+    },
+    {
+      "org": "Synfig",
+      "github": "synfig/synfig",
+      "logo": "https://avatars.githubusercontent.com/synfig",
+      "title": "Feature request: Add support of Angle type to Log converter",
+      "url": "https://github.com/synfig/synfig/issues/3582",
+      "repo": "synfig/synfig",
+      "labels": [
+        "Easy",
+        "good first issue"
+      ],
+      "comments": 8,
+      "created_at": "2025-05-15T03:15:53Z",
+      "updated_at": "2025-07-02T10:27:52Z",
+      "language": null
+    },
+    {
+      "org": "Synfig",
+      "github": "synfig/synfig",
+      "logo": "https://avatars.githubusercontent.com/synfig",
+      "title": "User-friendly rendering dialogue",
+      "url": "https://github.com/synfig/synfig/issues/721",
+      "repo": "synfig/synfig",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "UI/UX"
+      ],
+      "comments": 12,
+      "created_at": "2019-02-05T15:21:52Z",
+      "updated_at": "2025-06-12T04:15:13Z",
+      "language": null
+    },
+    {
+      "org": "TARDIS RT Collaboration",
+      "github": "tardis-sn/tardis",
+      "logo": "https://avatars.githubusercontent.com/tardis-sn",
+      "title": "Move CSVY writer from custom abundance widget to io",
+      "url": "https://github.com/tardis-sn/tardis/issues/1927",
+      "repo": "tardis-sn/tardis",
+      "labels": [
+        "good first issue",
+        "io"
+      ],
+      "comments": 6,
+      "created_at": "2022-03-14T17:40:34Z",
+      "updated_at": "2026-02-02T17:59:08Z",
+      "language": null
+    },
+    {
+      "org": "TARDIS RT Collaboration",
+      "github": "tardis-sn/tardis",
+      "logo": "https://avatars.githubusercontent.com/tardis-sn",
+      "title": "Cannot disable convergence plots",
+      "url": "https://github.com/tardis-sn/tardis/issues/2917",
+      "repo": "tardis-sn/tardis",
+      "labels": [
+        "easy",
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2024-12-30T06:04:51Z",
+      "updated_at": "2026-01-29T18:21:36Z",
+      "language": null
+    },
+    {
+      "org": "TARDIS RT Collaboration",
+      "github": "tardis-sn/tardis",
+      "logo": "https://avatars.githubusercontent.com/tardis-sn",
+      "title": "Using `tardis.__path__` to determine the TARDIS module location can break in edge cases",
+      "url": "https://github.com/tardis-sn/tardis/issues/3021",
+      "repo": "tardis-sn/tardis",
+      "labels": [
+        "good first issue",
+        "bug :lady_beetle:"
+      ],
+      "comments": 4,
+      "created_at": "2025-03-20T14:07:15Z",
+      "updated_at": "2026-01-28T14:40:54Z",
+      "language": null
+    },
+    {
+      "org": "The Julia Language",
+      "github": "JuliaLang/julia",
+      "logo": "https://avatars.githubusercontent.com/JuliaLang",
+      "title": "min, min, minmax inconsistencies",
+      "url": "https://github.com/JuliaLang/julia/issues/61841",
+      "repo": "JuliaLang/julia",
+      "labels": [
+        "bug",
+        "maths",
+        "good first issue"
+      ],
+      "comments": 13,
+      "created_at": "2026-05-18T22:12:53Z",
+      "updated_at": "2026-05-20T19:56:20Z",
+      "language": null
+    },
+    {
+      "org": "The Julia Language",
+      "github": "JuliaLang/julia",
+      "logo": "https://avatars.githubusercontent.com/JuliaLang",
+      "title": "Improving MethodError message for anonymous functions",
+      "url": "https://github.com/JuliaLang/julia/issues/56325",
+      "repo": "JuliaLang/julia",
+      "labels": [
+        "good first issue",
+        "error messages"
+      ],
+      "comments": 7,
+      "created_at": "2024-10-25T12:52:59Z",
+      "updated_at": "2026-05-09T16:06:34Z",
+      "language": null
+    },
+    {
+      "org": "The Julia Language",
+      "github": "JuliaLang/julia",
+      "logo": "https://avatars.githubusercontent.com/JuliaLang",
+      "title": "implement String(::Base.Generator)",
+      "url": "https://github.com/JuliaLang/julia/issues/57072",
+      "repo": "JuliaLang/julia",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "strings"
+      ],
+      "comments": 10,
+      "created_at": "2025-01-16T19:04:36Z",
+      "updated_at": "2026-04-01T23:00:40Z",
+      "language": null
+    },
+    {
+      "org": "The OpenROAD Initiative",
+      "github": "The-OpenROAD-Project/OpenROAD",
+      "logo": "https://avatars.githubusercontent.com/The-OpenROAD-Project",
+      "title": "Add some good examples from antonblanchard/vlsiffra as a regression test / benchmark",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD/issues/2361",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "labels": [
+        "good first issue",
+        "Stale"
+      ],
+      "comments": 8,
+      "created_at": "2022-10-12T20:20:27Z",
+      "updated_at": "2026-05-17T10:42:38Z",
+      "language": null
+    },
+    {
+      "org": "The OpenROAD Initiative",
+      "github": "The-OpenROAD-Project/OpenROAD",
+      "logo": "https://avatars.githubusercontent.com/The-OpenROAD-Project",
+      "title": "Add library of useful functions for doing manual placement of cells",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD/issues/4041",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "labels": [
+        "good first issue",
+        "Stale"
+      ],
+      "comments": 23,
+      "created_at": "2023-09-25T18:17:36Z",
+      "updated_at": "2026-05-16T20:45:56Z",
+      "language": null
+    },
+    {
+      "org": "The OpenROAD Initiative",
+      "github": "The-OpenROAD-Project/OpenROAD",
+      "logo": "https://avatars.githubusercontent.com/The-OpenROAD-Project",
+      "title": "openroad should write it's commands into the log",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD/issues/3539",
+      "repo": "The-OpenROAD-Project/OpenROAD",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 30,
+      "created_at": "2023-06-27T00:41:24Z",
+      "updated_at": "2026-05-11T15:34:08Z",
+      "language": null
+    },
+    {
+      "org": "Tiled",
+      "github": "mapeditor/tiled",
+      "logo": "https://avatars.githubusercontent.com/mapeditor",
+      "title": "Double-click to add custom property",
+      "url": "https://github.com/mapeditor/tiled/issues/845",
+      "repo": "mapeditor/tiled",
+      "labels": [
+        "usability",
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2014-12-21T03:04:38Z",
+      "updated_at": "2026-03-18T10:18:21Z",
+      "language": null
+    },
+    {
+      "org": "Tiled",
+      "github": "mapeditor/tiled",
+      "logo": "https://avatars.githubusercontent.com/mapeditor",
+      "title": "Doubleclick to edit custom property key",
+      "url": "https://github.com/mapeditor/tiled/issues/1662",
+      "repo": "mapeditor/tiled",
+      "labels": [
+        "usability",
+        "good first issue"
+      ],
+      "comments": 10,
+      "created_at": "2017-07-25T12:40:53Z",
+      "updated_at": "2026-03-18T06:30:58Z",
+      "language": null
+    },
+    {
+      "org": "Tiled",
+      "github": "mapeditor/tiled",
+      "logo": "https://avatars.githubusercontent.com/mapeditor",
+      "title": "Expand/collapse layers API",
+      "url": "https://github.com/mapeditor/tiled/issues/3997",
+      "repo": "mapeditor/tiled",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 9,
+      "created_at": "2024-07-05T00:46:01Z",
+      "updated_at": "2026-03-06T15:44:02Z",
+      "language": null
+    },
+    {
+      "org": "Typelevel",
+      "github": "typelevel/cats",
+      "logo": "https://avatars.githubusercontent.com/typelevel",
+      "title": "Make `Hash.fromUniversalHashCode` null safe",
+      "url": "https://github.com/typelevel/cats/issues/4831",
+      "repo": "typelevel/cats",
+      "labels": [
+        "good first issue"
+      ],
+      "comments": 6,
+      "created_at": "2026-02-22T22:45:13Z",
+      "updated_at": "2026-05-07T03:05:56Z",
+      "language": null
+    },
+    {
+      "org": "Typelevel",
+      "github": "typelevel/cats",
+      "logo": "https://avatars.githubusercontent.com/typelevel",
+      "title": "Add doctests (excellent first-time issue)",
+      "url": "https://github.com/typelevel/cats/issues/2479",
+      "repo": "typelevel/cats",
+      "labels": [
+        "help wanted",
+        "documentation",
+        "good first issue"
+      ],
+      "comments": 14,
+      "created_at": "2018-09-07T16:40:38Z",
+      "updated_at": "2025-12-25T21:33:53Z",
+      "language": null
+    },
+    {
+      "org": "Zulip",
+      "github": "zulip/zulip",
+      "logo": "https://avatars.githubusercontent.com/zulip",
+      "title": "Add join/leave notifications for private channels",
+      "url": "https://github.com/zulip/zulip/issues/2746",
+      "repo": "zulip/zulip",
+      "labels": [
+        "help wanted",
+        "good first issue",
+        "area: channel settings",
+        "in progress"
+      ],
+      "comments": 121,
+      "created_at": "2016-12-16T19:18:51Z",
+      "updated_at": "2026-05-20T17:46:28Z",
+      "language": null
+    },
+    {
+      "org": "Zulip",
+      "github": "zulip/zulip",
+      "logo": "https://avatars.githubusercontent.com/zulip",
+      "title": "Separate `command` and `text` field for slack-compatible outgoing webhook",
+      "url": "https://github.com/zulip/zulip/issues/19589",
+      "repo": "zulip/zulip",
+      "labels": [
+        "help wanted",
+        "area: integrations",
+        "good first issue"
+      ],
+      "comments": 74,
+      "created_at": "2021-08-18T03:26:49Z",
+      "updated_at": "2026-05-13T08:32:00Z",
       "language": null
     }
   ]
